@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Space {
+public class Space 
+{
 	bool isWall = false;
 	bool isUnit = false;
 	bool isBuild = false;
@@ -24,7 +25,12 @@ public class Space {
 	}
 	public bool isEmpty()
 	{
-		return true;		
+		if (isWall == true || isBuild == true) 
+		{
+			return false;
+		} 
+		else
+			return true;
 	}
 }
 
