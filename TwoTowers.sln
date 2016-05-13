@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoTowers.CSharp.Plugins", "TwoTowers.CSharp.Plugins.csproj", "{07E9EB9F-631B-898A-DDF8-1C97B4A0DC00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoTowers.CSharp", "TwoTowers.CSharp.csproj", "{DA9656C4-80D6-C357-A4B6-400474C489DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoTowers.CSharp.Editor", "TwoTowers.CSharp.Editor.csproj", "{B1A4D230-9B4D-612D-8273-4C5A19374FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E9EB9F-631B-898A-DDF8-1C97B4A0DC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E9EB9F-631B-898A-DDF8-1C97B4A0DC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E9EB9F-631B-898A-DDF8-1C97B4A0DC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E9EB9F-631B-898A-DDF8-1C97B4A0DC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9656C4-80D6-C357-A4B6-400474C489DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9656C4-80D6-C357-A4B6-400474C489DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9656C4-80D6-C357-A4B6-400474C489DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9656C4-80D6-C357-A4B6-400474C489DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A4D230-9B4D-612D-8273-4C5A19374FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A4D230-9B4D-612D-8273-4C5A19374FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A4D230-9B4D-612D-8273-4C5A19374FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A4D230-9B4D-612D-8273-4C5A19374FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
