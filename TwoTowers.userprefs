@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="TwoTowers.CSharp.Plugins.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Classes\Space.cs">
     <Files>
-      <File FileName="Assets\Classes\Space.cs" Line="27" Column="1" />
+      <File FileName="Assets\Classes\Space.cs" Line="8" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
