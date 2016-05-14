@@ -54,6 +54,7 @@
      <Compile Include="Assets\Classes\Hero.cs" />
      <Compile Include="Assets\Classes\PathFinder.cs" />
      <Compile Include="Assets\Classes\Space.cs" />
+     <Compile Include="Assets\Classes\TestCam.cs" />
      <Compile Include="Assets\Classes\Unit.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />

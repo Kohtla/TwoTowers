@@ -23,6 +23,10 @@ public class Space
 	{		
 		isBuild = false;
 	}
+    public void setWall()
+    {
+        isWall = true;
+    }
 	public bool isEmpty()
 	{
 		if (isWall == true || isBuild == true) 
