@@ -1,14 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Classes\Space.cs">
-    <Files>
-      <File FileName="Assets\Classes\Field.cs" Line="5" Column="1" />
-      <File FileName="Assets\Classes\Space.cs" Line="4" Column="19" />
-      <File FileName="Assets\Classes\AttackType.cs" Line="13" Column="21" />
-      <File FileName="Assets\Classes\Unit.cs" Line="12" Column="19" />
-      <File FileName="Assets\Classes\Hero.cs" Line="7" Column="11" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
